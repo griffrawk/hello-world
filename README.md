@@ -6,4 +6,5 @@ some more gubbins in an unordered list
 - bob
 - alice
 - ringo
+- george
 
